@@ -1,0 +1,7 @@
+﻿Visual Studio Color Theme Editor
+
+19-Apr-2019: v16.0.1
+- Fix crash when loading themes in Visual Studio 2019 version 16.1
+
+21-Feb-2019: v16.0.0
+- Upgraded to Visual Studio 2019
